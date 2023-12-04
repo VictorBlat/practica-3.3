@@ -1,6 +1,9 @@
-p.rojo {color: red;   
+#navegador {
+    color: blue;
 }
-p.verde {color: green;
+#especial {
+    color: green;
 }
-p.azul {color: blue ;
+p{
+    color: red;
 }
